@@ -1,0 +1,58 @@
+  1. address
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 150919
+	5 most frequent values:
+		Email: REDACTED:	10
+		REDACTED:	5
+		Room 2103 21st Floor Causeway Bay Plaza 2 463-483 Lockhart Road Hong Kong:	2
+		2-44-8 Motomiya Ohtsu-shi, Shiga-ken 520-0804 Japan:	2
+		9F-3, No. 74, Sec. 3 Min Chuan E. Rd., Chung Shan District Taipei City 104 Taiwan, R.O.C.:	2
+	Max length: 667
+  2. icij_id
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 93454
+	Max length: 32
+  3. valid_until
+	<type 'unicode'>
+	Nulls: False
+	Values: The Panama Papers  data is current through 2015, The Offshore Leaks data is current through 2010
+  4. country_codes
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 209
+	5 most frequent values:
+		CHN:	28073
+		HKG:	21041
+		TWN:	14610
+		USA:	6860
+		SGP:	5728
+	Max length: 4
+  5. countries
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 209
+	5 most frequent values:
+		China:	28073
+		Hong Kong:	21041
+		Taiwan, Province of China:	14610
+		United States:	6860
+		Singapore:	5728
+	Max length: 42
+  6. node_id
+	<type 'int'>
+	Nulls: False
+	Min: 67268
+	Max: 14093454
+	Sum: 1327170700525
+	Mean: 8786067.89972
+	Median: 14017927.5
+	Standard Deviation: 6700899.01554
+	Unique values: 151054
+  7. sourceID
+	<type 'unicode'>
+	Nulls: False
+	Values: Panama Papers, Offshore Leaks
+
+Row count: 151054

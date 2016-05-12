@@ -1,0 +1,38 @@
+  1. node_1
+	<type 'int'>
+	Nulls: False
+	Min: 1
+	Max: 15007401
+	Sum: 8374291735733
+	Mean: 6616384.52997
+	Median: 11003897.0
+	Standard Deviation: 5818620.22767
+	Unique values: 459188
+	5 most frequent values:
+		54662:	36373
+		11001746:	7016
+		298333:	5700
+		11011863:	4364
+		96909:	4270
+  2. rel_type
+	<type 'unicode'>
+	Nulls: False
+	Values: intermediary_of, officer_of, registered_address, similar, underlying
+  3. node_2
+	<type 'int'>
+	Nulls: False
+	Min: 9695
+	Max: 14093454
+	Sum: 7909310072349
+	Mean: 6249010.47835
+	Median: 10030153.0
+	Standard Deviation: 5554249.75184
+	Unique values: 492143
+	5 most frequent values:
+		236724:	37338
+		288469:	5699
+		285729:	3896
+		264051:	2671
+		279944:	2194
+
+Row count: 1265690

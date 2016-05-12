@@ -1,0 +1,207 @@
+  1. name
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 311165
+	5 most frequent values:
+		Details temporarily withheld:	10
+		BRITTEN TRADING LIMITED:	5
+		SUNMEAD MANAGEMENT LIMITED:	5
+		KAMBER LIMITED:	5
+		LATITUD 33 CORP.:	5
+	Max length: 128
+  2. original_name
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 206729
+	5 most frequent values:
+		BRITTEN TRADING LIMITED:	5
+		SUNMEAD MANAGEMENT LIMITED:	5
+		KAMBER LIMITED:	5
+		LATITUD 33 CORP.:	5
+		MT HOLDINGS CAPITAL INC.:	4
+	Max length: 196
+  3. former_name
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 6407
+	5 most frequent values:
+		EXTRANJERA:	25
+		IN PROCESS TO CHANGE THE NAME.:	4
+		INTERNATIONAL:	3
+		NORD MARINE TRADING LTD.:	2
+		JPP SERVICES S.A.:	2
+	Max length: 115
+  4. jurisdiction
+	<type 'unicode'>
+	Nulls: False
+	Unique values: 39
+	5 most frequent values:
+		BVI:	151588
+		XXX:	55645
+		PMA:	48373
+		BAH:	15946
+		SEY:	15580
+	Max length: 5
+  5. jurisdiction_description
+	<type 'unicode'>
+	Nulls: False
+	Unique values: 40
+	5 most frequent values:
+		British Virgin Islands:	151588
+		Undetermined:	55542
+		Panama:	48373
+		Bahamas:	15946
+		Seychelles:	15580
+	Max length: 34
+  6. company_type
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 55
+	5 most frequent values:
+		Standard International Company:	40072
+		Standard Company under IBC Act:	26214
+		Business Company Limited by Shares:	25130
+		Client Sundry Account:	8692
+		Cook Islands Asset Protection Trust:	547
+	Max length: 46
+  7. address
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 20577
+	5 most frequent values:
+		Portcullis TrustNet Chambers P.O. Box 3444 Road Town, Tortola BRITISH VIRGIN ISLANDS:	33841
+		ORION HOUSE SERVICES (HK) LIMITED ROOM 1401; 14/F.; WORLD COMMERCE  CENTRE; HARBOUR CITY; 7-11 CANTON ROAD; TSIM SHA TSUI; KOWLOON; HONG KONG:	7012
+		Unitrust Corporate Services Ltd. John Humphries House, Room 304 4-10 Stockwell Street, Greenwich London SE10 9JN RT BVI:	5697
+		MOSSACK FONSECA & CO. MOSSFON BUILDING CALLE 54 ESTE PANAMA, REPUBLICA DE PANAMA:	4349
+		MF ASSOCIATES INC. PASEO ROBERTO MOTTA CAPITAL PLAZA; FLOOR 8 COSTA DEL ESTE; PANAMÁ PANAMA REPUBLIC OF PANAMA *S.I.*:	4117
+	Max length: 269
+  8. internal_id
+	<type 'int'>
+	Nulls: True
+	Min: 21
+	Max: 10500009
+	Sum: 254232889852
+	Mean: 1190039.45932
+	Median: 539317.5
+	Standard Deviation: 1929642.19366
+	Unique values: 213634
+  9. incorporation_date
+	<type 'datetime.date'>
+	Nulls: True
+	Min: 1918-01-01
+	Max: 2020-05-05
+	Unique values: 9668
+	5 most frequent values:
+		1998-01-02:	911
+		2008-01-02:	894
+		1999-01-04:	809
+		2002-01-02:	764
+		2007-01-02:	738
+ 10. inactivation_date
+	<type 'datetime.date'>
+	Nulls: True
+	Min: 1930-11-30
+	Max: 2015-12-29
+	Unique values: 6883
+	5 most frequent values:
+		2009-11-02:	1723
+		2015-11-06:	1475
+		2010-05-03:	1399
+		2008-11-06:	1364
+		2014-11-06:	1357
+ 11. struck_off_date
+	<type 'datetime.date'>
+	Nulls: True
+	Min: 1001-04-01
+	Max: 2019-02-01
+	Unique values: 6730
+	5 most frequent values:
+		2009-10-31:	2997
+		2012-07-15:	2963
+		2010-10-31:	2826
+		2015-10-31:	2811
+		2014-10-31:	2728
+ 12. dorm_date
+	<type 'datetime.date'>
+	Nulls: True
+	Min: 1997-11-07
+	Max: 2010-03-16
+	Unique values: 275
+	5 most frequent values:
+		2009-05-01:	2261
+		2009-11-01:	2088
+		2008-11-01:	1780
+		2008-05-01:	1560
+		2007-11-01:	1549
+ 13. status
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 37
+	5 most frequent values:
+		Active:	101732
+		Defaulted:	100090
+		Dead:	23095
+		Dissolved:	22377
+		Struck / Defunct / Deregistered:	19486
+	Max length: 37
+ 14. service_provider
+	<type 'unicode'>
+	Nulls: False
+	Values: Commonwealth Trust Limited, Mossack Fonseca, Portcullis Trustnet
+ 15. ibcRUC
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 212461
+	5 most frequent values:
+		0:	1444
+		30:	720
+		80:	678
+		40:	670
+		10:	660
+	Max length: 19
+ 16. country_codes
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 518
+	5 most frequent values:
+		HKG:	38844
+		CHE:	37917
+		VGB:	37277
+		PAN:	15824
+		JEY:	14333
+	Max length: 15
+ 17. countries
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 518
+	5 most frequent values:
+		Hong Kong:	38844
+		Switzerland:	37917
+		Virgin Islands, British:	37277
+		Panama:	15824
+		Jersey:	14333
+	Max length: 64
+ 18. note
+	<type 'unicode'>
+	Nulls: True
+	Values: This company file does not exist or has not been created yet. ORA-06512: at "MOSSFON.TKBUS22_CPY", line 2293  username: deycaza owa_sec.get_user_id: deycaza, This is not an offshore entity even though it was logged as such in original database ICIJ received. It isi an internal account created by the agent to record miscellaneous charges of an officer or intermediary
+ 19. valid_until
+	<type 'unicode'>
+	Nulls: False
+	Values: The Panama Papers data is current through 2015, The Offshore Leaks data is current through 2010
+ 20. node_id
+	<type 'int'>
+	Nulls: False
+	Min: 66978
+	Max: 10214488
+	Sum: 2178071563574
+	Mean: 6824601.48386
+	Median: 10054447.5
+	Standard Deviation: 4671327.5425
+	Unique values: 319150
+ 21. sourceID
+	<type 'unicode'>
+	Nulls: False
+	Values: Panama Papers, Offshore Leaks
+
+Row count: 319150

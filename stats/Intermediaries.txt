@@ -1,0 +1,80 @@
+  1. name
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 23392
+	5 most frequent values:
+		Peter Lee:	3
+		Bernard Fung:	2
+		PARALLEL UK:	2
+		TOP TEAM SECRETARY LIMITED:	2
+		ALDO CHRISTIAN LOPEZ:	2
+	Max length: 91
+  2. internal_id
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 14110
+	Max length: 6
+  3. address
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 8639
+	5 most frequent values:
+		CAÑON & CAÑON ASESORES TRIBUTARIOS CALLE 99 NO 7 A - 77  OFICINA 405 BOGOTA COLOMBIA:	2
+		VALUEMADE LIMITED ROOM 905; 9/F.; K. WAH CENTRE; 191 JAVA ROAD; NORTH POINT HONG KONG:	2
+		ATLANTIQUE (BVI) LIMITED 3RD FLOOR; 37 ESPLANADE CHANNEL ISLANDS ST. HELIER JE2 3QA; JERSEY UNITED KINGDOM:	2
+		KANFER INVESTISSEMENTS S.A. 12, RUE JEAN ENGLING L-1466 LUXEMBOURG:	2
+		CABRAL & DIAZ AVE. JOSE A. AYBAR CASTELLANOS; NO. 102; EL VERGEL SANTO DOMINGO; REPUBLICA DOMINICANA:	1
+	Max length: 230
+  4. valid_until
+	<type 'unicode'>
+	Nulls: False
+	Values: The Panama Papers  data is current through 2015, The Offshore Leaks data is current through 2010
+  5. country_codes
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 285
+	5 most frequent values:
+		HKG:	4886
+		GBR:	1540
+		USA:	1500
+		TWN:	1323
+		CHE:	1321
+	Max length: 15
+  6. countries
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 285
+	5 most frequent values:
+		Hong Kong:	4886
+		United Kingdom:	1540
+		United States:	1500
+		Taiwan, Province of China:	1323
+		Switzerland:	1321
+	Max length: 52
+  7. status
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 9
+	5 most frequent values:
+		ACTIVE:	7062
+		SUSPENDED:	4756
+		UNRECOVERABLE ACCOUNTS:	382
+		INACTIVE:	270
+		PROSPECT:	90
+	Max length: 34
+  8. node_id
+	<type 'int'>
+	Nulls: False
+	Min: 21309
+	Max: 11014110
+	Sum: 157683503349
+	Mean: 6671327.7775
+	Median: 11002292.5
+	Standard Deviation: 5277058.04438
+	Unique values: 23636
+  9. sourceID
+	<type 'unicode'>
+	Nulls: False
+	Values: Panama Papers, Offshore Leaks
+
+Row count: 23636
